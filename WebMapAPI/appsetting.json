@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings":{
+    "connectionString":"Server=mapserver;Database=mapdatabase;User ID=tadatota"
+  }
+}

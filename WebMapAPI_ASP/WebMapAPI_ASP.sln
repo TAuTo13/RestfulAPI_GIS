@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMapAPI_ASP", "WebMapAPI_ASP\WebMapAPI_ASP.csproj", "{500C9677-7476-4C72-BF8A-BE87E5D45E8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{500C9677-7476-4C72-BF8A-BE87E5D45E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{500C9677-7476-4C72-BF8A-BE87E5D45E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{500C9677-7476-4C72-BF8A-BE87E5D45E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{500C9677-7476-4C72-BF8A-BE87E5D45E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64974046-8216-4D51-B9DA-7C9EB7C0AF61}
+	EndGlobalSection
+EndGlobal
